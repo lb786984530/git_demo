@@ -3,3 +3,6 @@ str1 = 'aa'
 str2 = 'ss'
 str4 = 'ff'
 str3 = 'dd'
+
+
+str5 = 'gg'
